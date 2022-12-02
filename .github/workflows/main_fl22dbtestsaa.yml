@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'fl22dbtestsaa'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FBAA2E4572C64595B6B5FB1DA9A98FD1 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B80ACE69C6D4408CB624DA05B33A725A }}
           package: .
