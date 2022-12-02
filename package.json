@@ -1,0 +1,24 @@
+{
+  "name": "fl22dbtestsaa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashercsulb/fl22dbtestsaa.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashercsulb/fl22dbtestsaa/issues"
+  },
+  "homepage": "https://github.com/ashercsulb/fl22dbtestsaa#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "pg": "^8.8.0"
+  }
+}
